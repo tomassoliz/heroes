@@ -1,4 +1,5 @@
 *** heroes ***
 
-integrantes: Tomas soliz, ludmila Miceli, Ezequiel Paredes, Gaston Cane
+integrantes: 
 
+Tomas Soliz, 24 años, Buenos Aires.
